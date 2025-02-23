@@ -9,3 +9,8 @@ Alur Fitur Login:
 Alur Fitur Delete:
 1. Pilih item yang akan di delete
 2. Klik tombol delete
+
+Alur Menambahkan fitur baru:
+1. Masuk ke halaman login
+2. Klik fitur yang ingin ditambahkan
+3. Tara
